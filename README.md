@@ -1,0 +1,2 @@
+# Go-Basics
+Yeah, its GoLang, I know everyone thinking what am I doing a new language a day is not good, I totally understand and I am not learning Go for a near future career, I just started for a basic understanding and I am committed for Flutter and I will be, its just I don't know what to do when you take a break with your learning profile, I start something crazy for that 15 to 20 min break, and here it is I started Go.
